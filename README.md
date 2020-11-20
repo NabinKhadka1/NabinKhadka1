@@ -1,5 +1,11 @@
-### Hi there 👋, My name is Nabin
-I'm Nabin. I do web development. I'm a Computer Science student at Dr. Ambedkar Institute of Technology and I'm interested in Data Science and Machine Learning.
+# Nabin Khadka
+I'm Nabin. I'm a Computer Science Student at Dr. Ambedkar Institute of Technology. I do Web Development and I'm interested in learning Data Science and Machine Learning.
+
+## Skills
+⚛ Python/Django
+💻 HTML, CSS and JS
+🗃 MySQL, SQlite
+
 
 Skills:  HTML / CSS/MySQL/Python/Django / JS /
 
