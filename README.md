@@ -2,12 +2,10 @@
 I'm Nabin. I'm a Computer Science Student at Dr. Ambedkar Institute of Technology. I do Web Development and I'm interested in learning Data Science and Machine Learning.
 
 ## Skills
-⚛ Python/Django
-💻 HTML, CSS and JS
-🗃 MySQL, SQlite
+* ⚛ Python/Django
+* 💻 HTML, CSS and JS
+* 🗃 MySQL, SQlite
 
-
-Skills:  HTML / CSS/MySQL/Python/Django / JS /
 
 - 🔭 I’m currently working on E-commerce website 
 - 🌱 I’m currently learning Algorithm and Data Structure 
