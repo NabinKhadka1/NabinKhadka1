@@ -1,5 +1,5 @@
 # Nabin Khadka
-I'm Nabin. I'm a Computer Science Student at Dr. Ambedkar Institute of Technology. I do Web Development and I'm interested in learning Data Science and Machine Learning.
+I'm Nabin. I'm in final year of Computer Science Engineering at Dr. Ambedkar Institute of Technology. I do full stack web development with Python/Django.
 
 ## Skills
 * ⚛ Python/Django
@@ -8,10 +8,9 @@ I'm Nabin. I'm a Computer Science Student at Dr. Ambedkar Institute of Technolog
 
 ### Hi there 👋
 - 🔭 I’m currently working on E-commerce website 
-- 🌱 I’m currently learning Algorithm and Data Structure 
-- 👯 I’m looking to collaborate on Web Development and Data Science 
-- 🤔 I’m looking for help with to learn Algorithm and Data Structure better 
-- 💬 Ask me about Web Development and Data Science 
+- 🌱 I’m currently learning Docker 
+- 👯 I’m looking to collaborate on Web Development with Django 
+- 🤔 I’m looking for help with to lDocker better 
 - 📫 How to reach me: Mail me at: <a href="nabinkhadka330@gmail.com">nabinkhadka330@gmail.com</a>
 
 ### Connect with me at:
