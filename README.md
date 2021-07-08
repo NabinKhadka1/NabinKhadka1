@@ -10,7 +10,7 @@ I'm Nabin. I'm in final year of Computer Science Engineering at Dr. Ambedkar Ins
 - 🔭 I’m currently working on E-commerce website 
 - 🌱 I’m currently learning Docker 
 - 👯 I’m looking to collaborate on Web Development with Django 
-- 🤔 I’m looking for help with to Docker better 
+- 🤔 I’m looking for help to learn Docker better 
 - 📫 How to reach me: Mail me at: <a href="nabinkhadka330@gmail.com">nabinkhadka330@gmail.com</a>
 
 ### Connect with me at:
