@@ -1,5 +1,5 @@
 # Nabin Khadka
-Hi, I'm Nabin. I'm in final year of Computer Science Engineering at Dr. Ambedkar Institute of Technology. I do full stack web development with Python/Django.
+Hi, I'm Nabin. I'm a Computer Engineering graduate from Dr. Ambedkar Institute of Technology. I do full stack web development with Python/Django.
 
 ## Skills
 * ⚛ Python/Django
