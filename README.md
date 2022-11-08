@@ -2,9 +2,9 @@
 Hi, I'm Nabin. I'm a Computer Engineering graduate from Dr. Ambedkar Institute of Technology. I do full stack web development with Python/Django.
 
 ## Skills
-* ⚛ Python/Django
 * 💻 HTML, CSS and JS
 * 🔭 React, SASS, Bootstrap and GIT
+* ⚛  Python/Django
 * 🗃 MySQL
 
 ### Hi there 👋
