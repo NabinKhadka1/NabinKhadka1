@@ -4,6 +4,7 @@ Hi, I'm Nabin. I'm a Computer Engineering graduate from Dr. Ambedkar Institute o
 ## Skills
 * ⚛ Python/Django
 * 💻 HTML, CSS and JS
+* 🔭 React,SASS,Bootstrap and GIT
 * 🗃 MySQL
 
 ### Hi there 👋
