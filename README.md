@@ -14,6 +14,6 @@
 - 📫 Hit me up at [nabinkhadka330@gmail.com](mailto:nabinkhadka330@gmail.com)
 
 ### Let's Connect:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NabinKhadka1)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabinkhadka1)
+[<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/NabinKhadka1)   [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/nabinkhadka1)
 
 
