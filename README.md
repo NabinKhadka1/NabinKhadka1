@@ -1,19 +1,19 @@
 # Nabin Khadka
-Hi, I'm Nabin. I'm a Computer Engineering graduate from Dr. Ambedkar Institute of Technology. I do full stack web development with MERN stack.
+👋 I'm Nabin, currently working as a Front-end Developer and have a knack for building fullstack web applications. I'm well versed in MERN stack
 
 ## Skills
-* 💻 HTML, CSS and JS
-* 🔭 React, SASS, Bootstrap and GIT
-* ⚛  Python/Django, Node/Express
+* 💻 HTML, CSS, JS
+* 🔭 React/Nextjs, Redux, SASS, Tailwind, GIT
+* ⚛  Node/Express, Python/Django 
 * 🗃 MongoDB, MySQL
 
-### Hi there 👋
-- 🔭 I’m currently working on E-commerce website 
-- 🌱 I’m currently learning Docker 
-- 👯 I’m looking to collaborate on Web Development with Mern stack 
-- 🤔 I’m looking for help to learn Docker better 
-- 📫 How to reach me: Mail me at: <a href="nabinkhadka330@gmail.com">nabinkhadka330@gmail.com</a>
+### Yo! 👋
+- 🌱 Learning the Docker dance right now 
+- 👯 Up for a collab on MERN stack web projects 
+- 🤔 Need some wisdom to level up my Docker game 
+- 📫 Hit me up at [nabinkhadka330@gmail.com](mailto:nabinkhadka330@gmail.com)
 
-### Connect with me at:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NabinKhadka1)             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabin-khadka-782b85192//)  
+### Let's Connect:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NabinKhadka1)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabinkhadka1)
+
 
